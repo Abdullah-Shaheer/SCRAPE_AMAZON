@@ -1,1 +1,1 @@
-
+This script will first scrape the product urls from amazon (Category= "Gaming Laptops"). Then it will scrape additional information using those product urls. This script avoids IP blocking, handle captchas using ML. Logging is implemented to check how the script functions. Proper Error Handling. etc
