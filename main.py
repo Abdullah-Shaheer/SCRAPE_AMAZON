@@ -24,8 +24,8 @@ import cv2
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Proxy authentication details
-proxy_username = "tkpofkic"
-proxy_password = "9ogah6st3j0r"
+proxy_username = proxy username
+proxy_password = proxy password
 
 # Proxy list with authentication
 proxies = [
